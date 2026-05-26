@@ -18,3 +18,6 @@ python src/pythonMiniProjeto_Turma.py
 
 ## Principais etapas
 - Importação da base
+- Limpeza de Dados:
+- Verificação de nulos;
+- Tratamento de duplicatas.
