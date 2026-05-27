@@ -21,3 +21,5 @@ python src/pythonMiniProjeto_Turma.py
 - Limpeza de Dados:
 - Verificação de nulos;
 - Tratamento de duplicatas.
+- Conversão de datas
+- Estatísticas descritivas
